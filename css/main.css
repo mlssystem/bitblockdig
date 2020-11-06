@@ -11,6 +11,10 @@
   /*font-family: 'FonteLogo';*/
 }
 
+table#btc-ltc td.negrito {
+  font-weight: bold;
+}
+
 table {
   width: 100%;
   margin-bottom: 20px;
@@ -799,6 +803,11 @@ a.link-button-image.get-RSD-bt #bs-text-hover:hover {
   td {
     display: block;
     text-align: center;
+  }
+
+  table#btc-ltc {
+    display: none;
+
   }
 }
 
