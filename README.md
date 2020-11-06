@@ -1,2 +1,2 @@
 # bitblockdig
-Organizando conteúdo de pesquisas sobre criptomoedas 
+Organizando conteúdo de pesquisas sobre criptomoedas.
