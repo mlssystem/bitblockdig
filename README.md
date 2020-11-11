@@ -1,3 +1,3 @@
 # bitblockdig
-Organizando conteúdo de pesquisas sobre criptomoedas.
-08/11/20
+Organizando conteúdo de pesquisas sobre criptomoedas. 
+11/11/20
