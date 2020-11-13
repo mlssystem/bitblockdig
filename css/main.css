@@ -500,6 +500,10 @@ body > .row#theme14 {
   background-image: url('../CC_Theme/theme-xmr.jpg');
 }
 
+body > .row#theme15 {
+  background-image: url('../CC_Theme/theme-algo.jpg');
+}
+
 body > .row.bckgnd_image:hover {
   opacity: 1;
 }
