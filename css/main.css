@@ -504,6 +504,14 @@ body > .row#theme15 {
   background-image: url('../CC_Theme/theme-algo.jpg');
 }
 
+body > .row#theme16 {
+  background-image: url('../CC_Theme/theme-comp.jpg');
+}
+
+body > .row#theme17 {
+  background-image: url('../CC_Theme/theme-bch.jpg');
+}
+
 body > .row.bckgnd_image:hover {
   opacity: 1;
 }
