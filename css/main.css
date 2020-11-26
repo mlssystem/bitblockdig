@@ -512,6 +512,10 @@ body > .row#theme17 {
   background-image: url('../CC_Theme/theme-bch.jpg');
 }
 
+body > .row#theme18 {
+  background-image: url('../CC_Theme/theme-mkr.jpg');
+}
+
 body > .row.bckgnd_image:hover {
   opacity: 1;
 }
