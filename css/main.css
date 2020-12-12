@@ -29,7 +29,7 @@ caption {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: .5px solid rgba(0,0,0,0.5);
     border-collapse: collapse;
     background-color: #eee;
 }
@@ -514,6 +514,10 @@ body > .row#theme17 {
 
 body > .row#theme18 {
   background-image: url('../CC_Theme/theme-mkr.jpg');
+}
+
+body > .row#theme19 {
+  background-image: url('../CC_Theme/theme-link.jpg');
 }
 
 body > .row.bckgnd_image:hover {
