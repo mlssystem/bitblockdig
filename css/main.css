@@ -520,6 +520,14 @@ body > .row#theme19 {
   background-image: url('../CC_Theme/theme-link.jpg');
 }
 
+body > .row#theme20 {
+  background-image: url('../CC_Theme/theme-chz.jpg');
+}
+
+body > .row#theme21 {
+  background-image: url('../CC_Theme/theme-wbx.jpg');
+}
+
 body > .row.bckgnd_image:hover {
   opacity: 1;
 }
